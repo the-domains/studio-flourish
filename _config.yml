@@ -1,0 +1,14 @@
+layout_spectrum: 0.8928571
+color:
+  saturation: 0.6071042
+  lightness: 0.6577829
+  brandStrength: 0.924812
+  brandColors:
+    - '#FFFFFF'
+    - '#BED8CD'
+    - '#010101'
+    - '#91B5B4'
+    - '#535C67'
+  rhythmicContrast: 0.7022262
+typography_spectrum: 0.974662
+name: Studio Flourish
