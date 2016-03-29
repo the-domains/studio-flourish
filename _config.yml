@@ -1,14 +1,28 @@
+name: Studio Flourish
+favicon: null
 layout_spectrum: 0.8928571
+typography_spectrum: 0.974662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6071042
-  lightness: 0.6577829
-  brandStrength: 0.924812
   brandColors:
     - '#FFFFFF'
     - '#BED8CD'
     - '#010101'
     - '#91B5B4'
     - '#535C67'
+  brandStrength: 0.924812
+  lightness: 0.6577829
+  saturation: 0.6071042
   rhythmicContrast: 0.7022262
-typography_spectrum: 0.974662
-name: Studio Flourish
+purpose: []
