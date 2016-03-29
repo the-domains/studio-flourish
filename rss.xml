@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Studio Flourish]]></title>
         <description><![CDATA[Studio Flourish]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://studioflourish.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:44:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 20:56:48 GMT</lastBuildDate>
+        <atom:link href="http://studioflourish.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nog meer tekst :)</p>]]></description>
+            <link>http://studioflourish.nl/4867d4a9-7cd5-4459-826e-1a0f0bab231e/index.html</link>
+            <guid isPermaLink="false">4867d4a9-7cd5-4459-826e-1a0f0bab231e</guid>
+            <pubDate>Tue, 29 Mar 2016 20:56:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f24999-3c51-493b-bdd5-64c9f83637b2.jpg">]]></description>
-            <link>undefined8e0ac645-de26-47ee-b23f-48ce5492abd2/index.html</link>
+            <link>http://studioflourish.nl/8e0ac645-de26-47ee-b23f-48ce5492abd2/index.html</link>
             <guid isPermaLink="false">8e0ac645-de26-47ee-b23f-48ce5492abd2</guid>
             <pubDate>Tue, 29 Mar 2016 20:44:05 GMT</pubDate>
         </item>
