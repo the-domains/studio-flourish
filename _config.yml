@@ -1,7 +1,7 @@
 name: Studio Flourish
 favicon: null
-layout_spectrum: 0.30846
-typography_spectrum: 0.974662
+layout_spectrum: 0.91329
+typography_spectrum: 0.89701
 title: Studio Flourish
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c9d6df'
     - '#95b7b8'
     - '#565c68'
-  brandStrength: 0.875
+  brandStrength: 0
   lightness: 0.6577829
-  saturation: 0.6071042
+  saturation: 0.5
   rhythmicContrast: 0.7022262
 purpose: []
